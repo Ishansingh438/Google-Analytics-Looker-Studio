@@ -40,7 +40,7 @@ C. Funnel Analytics:
 
 https://lookerstudio.google.com/reporting/effedc0f-19ab-4b03-8535-0b720b21db52
 
-Prepare a funnel overview with 5 parts - Acquisition, Activation, Retention, Revenue, Referral, Funnel Visualization. Add different charts and graphs showing the following metrics:
+Prepare a funnel overview with 4 parts - Acquisition, Activation, Revenue, Referral and utilized Funnel Visualization. Add different charts and graphs showing the following metrics:
 
 Acquisition:
 
