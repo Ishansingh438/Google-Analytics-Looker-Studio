@@ -1,6 +1,6 @@
 # Google-Analytics-Looker-Studio
 
-Problem Statement : Using Looker_Studio will aVisualize the Given :
+Problem Statement : Using Looker_Studio we Visualized the Given :
 
 A. Google Analytics: 
 
